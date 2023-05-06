@@ -1,2 +1,2 @@
 # EncodeDecode
-![Screenshot](Screenshot.png)
+![Screenshot](ss.png)
